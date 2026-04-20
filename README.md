@@ -4,7 +4,7 @@
 
 # 🩺 Diabetes Prediction API – MLOps Project (FastAPI + Docker)
 
-🚀 A production-ready Machine Learning API built using FastAPI, Docker.
+🚀 A Dockerized Machine Learning API demonstrating MLOps concepts from training to deployment.
 This project demonstrates a complete MLOps pipeline — from model training to deployment.
 
 ---
