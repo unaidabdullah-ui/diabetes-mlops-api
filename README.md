@@ -50,12 +50,12 @@ Predict diabetes based on the following inputs:
 
 Diabetes_project/
 
-├── main.py                  # FastAPI app  
-├── train.py                 # Model training script  
-├── diabetes_model.pkl       # Trained model  
-├── requirements.txt         # Dependencies  
-├── Dockerfile               # Docker configuration  
-└── README.md                # Project documentation  
+├── main.py                  
+├── train.py                 
+├── diabetes_model.pkl      
+├── requirements.txt          
+├── Dockerfile              
+└── README.md                
 
 ---
 
