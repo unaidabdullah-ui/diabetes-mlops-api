@@ -63,7 +63,7 @@ Diabetes_project/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/unaidabdullah-ui/diabetes-mlops-project.git  
+git clone https://github.com/unaidabdullah-ui/diabetes-mlops-api.git
 cd diabetes-mlops-project  
 
 ---
