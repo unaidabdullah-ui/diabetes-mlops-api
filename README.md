@@ -48,7 +48,7 @@ Predict diabetes based on the following inputs:
 
 ## 📁 Project Structure
 
-Diabetes_project/
+diabetes-mlops-api/
 
 ├── main.py                  
 ├── train.py                 
