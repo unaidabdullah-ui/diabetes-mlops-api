@@ -1,6 +1,10 @@
-# 🩺 Diabetes Prediction API – MLOps Project (FastAPI + Docker + Kubernetes)
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![ML](https://img.shields.io/badge/Model-ScikitLearn-orange)
 
-🚀 A production-ready Machine Learning API built using FastAPI, Docker, and Kubernetes.  
+# 🩺 Diabetes Prediction API – MLOps Project (FastAPI + Docker)
+
+🚀 A production-ready Machine Learning API built using FastAPI, Docker.
 This project demonstrates a complete MLOps pipeline — from model training to deployment.
 
 ---
@@ -27,8 +31,7 @@ Predict diabetes based on the following inputs:
 
 - Machine Learning: Scikit-learn  
 - Backend: FastAPI  
-- Containerization: Docker  
-- Orchestration: Kubernetes  
+- Containerization: Docker   
 - Language: Python  
 - Model Serialization: Joblib  
 
@@ -39,7 +42,6 @@ Predict diabetes based on the following inputs:
 - ML Model Training  
 - REST API using FastAPI  
 - Dockerized Application  
-- Kubernetes Deployment  
 - Scalable & Production-ready Structure  
 
 ---
@@ -117,13 +119,6 @@ Run Container:
 
 docker run -p 8000:8000 diabetes-mlops  
 
----
-
-## ☸️ Kubernetes Deployment
-
-kubectl apply -f deployment.yaml  
-
----
 
 ## 📈 Future Improvements
 
