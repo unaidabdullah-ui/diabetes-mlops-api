@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mlops/
+venv/
+.venv/
+.env
+reports/
+
+# Trained artifacts are produced by train.py / CI, not hand-committed.
+models/*.pkl
+models/metadata.json
+!models/.gitkeep
+
+.DS_Store
